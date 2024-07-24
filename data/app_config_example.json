@@ -1,0 +1,11 @@
+{
+  "application": {
+    "admins": [
+      "novusis"
+    ],
+    "token": "YOUR_TELEGRAM_TOKEN",
+    "db_uri": "db/application.db",
+    "db_resources_uri": "db/resources.db",
+    "info_channel_chat_id": 0
+  }
+}

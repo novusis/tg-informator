@@ -1,0 +1,20 @@
+# application
+/db/
+/data/app_config_dev.json
+/data/app_config_prod.json
+
+# phyton
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+env/
+*.log
+*.sqlite
+.DS_Store
+
+# ides
+.idea/
+.vscode/
